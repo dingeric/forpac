@@ -1,4 +1,47 @@
 #EXTM3U 
+#EXTINF:-1 group-title="日语",NHK
+http://cloud-play.hhalloy.com/live/6c2713799277ea6ea2d3bfd0d4c31f88.flv
+
+#EXTINF:-1 group-title="英语-新闻",Bloomberg TV
+http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.flv
+#EXTINF:-1 group-title="英语-新闻",CNN NEWS
+http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
+#EXTINF:-1 group-title="英语-新闻",FOX News
+http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
+#EXTINF:-1 group-title="英语-新闻",BBC World News
+http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
+#EXTINF:-1 group-title="英语-新闻",SKY NEWS
+http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
+#EXTINF:-1 group-title="英语-新闻",天空新闻
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 group-title="英语-新闻",天空新闻
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 group-title="英语-新闻",DWTV
+http://cloud-play.hhalloy.com/live/a4aa25e01a432729323f4d0778605887.flv
+#EXTINF:-1 group-title="英语-新闻",Euronews
+http://cloud-play.hhalloy.com/live/7c52797bf1ca2da52c212bdead1d607c.flv
+#EXTINF:-1 group-title="英语-新闻",NHK WORLD
+http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flv
+#EXTINF:-1 group-title="英语-新闻",新加坡亚洲新闻台
+http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
+
+#EXTINF:-1 group-title="英语-娱乐",HBO HD
+http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
+#EXTINF:-1 group-title="英语-娱乐",HBO Hits
+http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
+#EXTINF:-1 group-title="英语-娱乐",HBO Signature
+http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+#EXTINF:-1 group-title="英语-娱乐",HBO Family
+http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv 
+#EXTINF:-1 group-title="英语-娱乐",BBC Lifestyle
+http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv 
+#EXTINF:-1 ,HBO
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 ,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 group-title="英语-自然",BBC earth
+http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
 
 #EXTINF:-1 group-title="台湾",爱尔达综合
 http://cloud-play.hhalloy.com/live/c614a26c0e0fb521c5cdfa10ed7f2089.flv
@@ -110,33 +153,33 @@ http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
 http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.flv
 #EXTINF:-1 group-title="台湾",中视经典
 http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
-#EXTINF:-1 ,龙华电影台
+#EXTINF:-1 group-title="台湾",龙华电影台
 http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
-#EXTINF:-1 ,龙华经典台
+#EXTINF:-1 group-title="台湾",龙华经典台
 http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
-#EXTINF:-1 ,龙华洋片台
+#EXTINF:-1 group-title="台湾",龙华洋片台
 http://cloud-play.hhalloy.com/live/b7829653660ec5e84c70e7f3a01e1e6c.flv
-#EXTINF:-1 ,龙华戏剧
+#EXTINF:-1 group-title="台湾",龙华戏剧
 http://cloud-play.hhalloy.com/live/b40ec839440a97d24d0aee0c69d186a1.flv
-#EXTINF:-1 ,龙华偶像
+#EXTINF:-1 group-title="台湾",龙华偶像
 http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
-#EXTINF:-1 ,龙华影剧
+#EXTINF:-1 group-title="台湾",龙华影剧
 http://cloud-play.hhalloy.com/live/d2e1d697b31906f91d7e19a5f06f64ed.flv
-#EXTINF:-1 ,龙华动画
+#EXTINF:-1 group-title="台湾",龙华动画
 http://cloud-play.hhalloy.com/live/4a3c4fbd39ddf82979cf3ecf3cd942c8.flv
-#EXTINF:-1 ,纬来综合台
+#EXTINF:-1 group-title="台湾",纬来综合台
 http://cloud-play.hhalloy.com/live/932044d200ab730968a8f9bc67feaef5.flv
-#EXTINF:-1 ,纬来育乐台
+#EXTINF:-1 group-title="台湾",纬来育乐台
 http://cloud-play.hhalloy.com/live/5cd65f73313b022253084c489a6705c8.flv 
-#EXTINF:-1 ,纬来戏剧台
+#EXTINF:-1 group-title="台湾",纬来戏剧台
 http://cloud-play.hhalloy.com/live/82605f105052ccaef7bb5d55ebc1341d.flv
-#EXTINF:-1 ,纬来日本台
+#EXTINF:-1 group-title="台湾",纬来日本台
 http://cloud-play.hhalloy.com/live/8bb9e07d9ed0c8bccd750b0f15206b73.flv 
-#EXTINF:-1 ,纬来精彩台
+#EXTINF:-1 group-title="台湾",纬来精彩台
 http://cloud-play.hhalloy.com/live/c311c72c22313d2991be335ea4872f46.flv
-#EXTINF:-1 ,纬来体育台
+#EXTINF:-1 group-title="台湾",纬来体育台
 http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flv 
-#EXTINF:-1 ,纬来电影台
+#EXTINF:-1 group-title="台湾",纬来电影台
 http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
 #EXTINF:-1 group-title="台湾",台视
 http://cloud-play.hhalloy.com/live/bec346d29d4c665d04db41d28a4e033f.flv
@@ -146,10 +189,18 @@ http://cloud-play.hhalloy.com/live/a8905b7e88b656b83c0f5d8bf5771430.flv
 http://cloud-play.hhalloy.com/live/c5d061725e49943973c43a404b913f17.flv
 #EXTINF:-1 group-title="台湾",华视
 http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv 
-#EXTINF:-1 ,年代MUCH
+#EXTINF:-1 group-title="台湾",年代MUCH
 http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.flv
-#EXTINF:-1 ,壹综合
+#EXTINF:-1 group-title="台湾",壹综合
 http://cloud-play.hhalloy.com/live/3cec0560564363facfd892d88b741c62.flv 
+#EXTINF:-1 group-title="台湾",ET综合台
+http://cloud-play.hhalloy.com/live/f6e19af652637cfde3c0f5d34822b4b5.flv 
+#EXTINF:-1 group-title="台湾",霹雳台湾台
+http://cloud-play.hhalloy.com/live/14b736ee363e84918a8c43c69691faaa.flv
+#EXTINF:-1 group-title="台湾",客家电视台
+http://cloud-play.hhalloy.com/live/9535868a6a173399d3913cab3bb61675.flv
+#EXTINF:-1 group-title="台湾",原住民频道
+http://cloud-play.hhalloy.com/live/8f44c933620b603a874a18ed1bb9a033.flv
 #EXTINF:-1 ,FOX
 http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.flv
 #EXTINF:-1 ,FOX CRIME
@@ -210,8 +261,7 @@ http://cloud-play.hhalloy.com/live/2d2f46a778c93f01b614213456fc97fc.flv
 http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
 #EXTINF:-1 ,华艺影剧台
 http://cloud-play.hhalloy.com/live/49d33b7521ceef2115572e8906e9f906.flv
-#EXTINF:-1 group-title="英语-新闻",新加坡亚洲新闻台
-http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
+
 #EXTINF:-1 ,非凡新闻台
 http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.flv
 #EXTINF:-1 ,幸福空间居家台
@@ -304,24 +354,7 @@ http://cloud-play.hhalloy.com/live/efd423af0e64fd82c1cc29e909eb4303.flv
 http://cloud-play.hhalloy.com/live/9bb01fa9902e14cd5811f5474283171b.flv
 #EXTINF:-1 ,NICK 卡通
 http://cloud-play.hhalloy.com/live/a81b6e417028b6d72ed3e6ee7c42619b.flv
-#EXTINF:-1 ,HBO HD
-http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
-#EXTINF:-1 ,HBO
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1 ,HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 ,BBC earth
-http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
-#EXTINF:-1 group-title="英语-新闻",BBC World News
-http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
-#EXTINF:-1 ,BBC Lifestyle
-http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv 
-#EXTINF:-1 ,HBO Hits
-http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
-#EXTINF:-1 ,HBO Signature
-http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
-#EXTINF:-1 ,HBO Family
-http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv 
+
 #EXTINF:-1 ,法国时尚
 http://cloud-play.hhalloy.com/live/f737108ad740b942b32d751b0577d534.flv
 #EXTINF:-1 ,ELTV生活英语台
@@ -344,14 +377,7 @@ http://cloud-play.hhalloy.com/live/e6d6d3927102ce6e0e99187b52946497.flv
 http://cloud-play.hhalloy.com/live/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv
 #EXTINF:-1 ,高点育乐台
 http://cloud-play.hhalloy.com/live/ab3024fd5d5b0e84cbcd0bc0085cf043.flv
-#EXTINF:-1 ,ET综合台
-http://cloud-play.hhalloy.com/live/f6e19af652637cfde3c0f5d34822b4b5.flv 
-#EXTINF:-1 ,霹雳台湾台
-http://cloud-play.hhalloy.com/live/14b736ee363e84918a8c43c69691faaa.flv
-#EXTINF:-1 ,客家电视台
-http://cloud-play.hhalloy.com/live/9535868a6a173399d3913cab3bb61675.flv
-#EXTINF:-1 ,原住民频道
-http://cloud-play.hhalloy.com/live/8f44c933620b603a874a18ed1bb9a033.flv
+
 #EXTINF:-1 ,GOODTV综合台
 http://live.streamingfast.net/osmflivech5.m3u8
 #EXTINF:-1 ,GOODTV综合台
@@ -390,68 +416,50 @@ http://live.streamingfast.net/osmflivech12.m3u8
 http://61.58.60.230:9319/live/10.m3u8
 #EXTINF:-1 ,大愛二台
 http://61.58.60.230:9319/live/191.m3u8
-#EXTINF:-1 ,凤凰中文
-http://59.125.101.122:8080/live/phoenix7188.m3u8
-#EXTINF:-1 ,香港电台
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,香港开电视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 ,星空卫视
-http://218.202.220.2:5000/nn_live.ts?id=STARTV
-#EXTINF:-1 ,无线财经咨询台
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+
 #EXTINF:-1 ,全美電視
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 ,澳门卫视
+#EXTINF:-1 group-title="港澳",澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
-#EXTINF:-1 ,澳门澳亚卫视台
+#EXTINF:-1 group-title="港澳",澳门澳亚卫视台
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1 ,翡翠台
-http://m.567it.com/jade.m3u8
-#EXTINF:-1 ,翡翠台
+#EXTINF:-1 group-title="港澳",凤凰中文
+http://59.125.101.122:8080/live/phoenix7188.m3u8
+#EXTINF:-1 group-title="港澳",香港电台
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="港澳",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="港澳",星空卫视
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1 group-title="港澳",无线财经咨询台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1 group-title="港澳",翡翠台
 http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv 
-#EXTINF:-1 ,香港J2台
+#EXTINF:-1 group-title="港澳",香港J2台
 http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
-#EXTINF:-1 ,香港有线电视603
+#EXTINF:-1 group-title="港澳",香港有线电视603
 http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
-#EXTINF:-1 ,TVB明珠台
+#EXTINF:-1 group-title="港澳",TVB明珠台
 http://m.567it.com/Pearl.m3u8
-#EXTINF:-1 ,TVB明珠台
+#EXTINF:-1 group-title="港澳",TVB明珠台
 http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
-#EXTINF:-1 ,TVB 星河
+#EXTINF:-1 group-title="港澳",TVB 星河
 http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flv
-#EXTINF:-1 ,TVB 功夫
+#EXTINF:-1 group-title="港澳",TVB 功夫
 http://cloud-play.hhalloy.com/live/cfd2b3912b756d6d4965f018fd7d3717.flv
-#EXTINF:-1 ,耀才财经台
+#EXTINF:-1 group-title="港澳",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 ,环球电视台HD
+#EXTINF:-1 group-title="港澳",环球电视台HD
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1 ,阳光卫视
+#EXTINF:-1 group-title="港澳",阳光卫视
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
-#EXTINF:-1 group-title="英语-新闻",CNN NEWS
-http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
-#EXTINF:-1 group-title="英语-新闻",SKY NEWS
-http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
-#EXTINF:-1 group-title="英语-新闻",天空新闻
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 group-title="英语-新闻",天空新闻
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
 #EXTINF:-1 ,LUXE.TV
 http://cloud-play.hhalloy.com/live/5eb27870debdb04d89a6246b163c2da5.flv 
-#EXTINF:-1 group-title="英语-新闻",Bloomberg TV
-http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.flv
-#EXTINF:-1 ,NHK
-http://cloud-play.hhalloy.com/live/6c2713799277ea6ea2d3bfd0d4c31f88.flv
-#EXTINF:-1 group-title="英语-新闻",NHK WORLD
-http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flv
-#EXTINF:-1 ,FOX News
-http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
+
 #EXTINF:-1 ,TV5 MONDE
 http://cloud-play.hhalloy.com/live/a9dd7099d0abf47c5e17f8038234df22.flv
-#EXTINF:-1 ,DWTV
-http://cloud-play.hhalloy.com/live/a4aa25e01a432729323f4d0778605887.flv
-#EXTINF:-1 ,欧洲新闻
-http://cloud-play.hhalloy.com/live/7c52797bf1ca2da52c212bdead1d607c.flv
+
 #EXTINF:-1 ,GOOD共享观点
 http://live.streamingfast.net/osmflivech5.m3u8
 #EXTINF:-1 ,GOOD卡通
