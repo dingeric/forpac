@@ -1,113 +1,114 @@
 #EXTM3U 
-#EXTINF:-1 ,爱尔达综合
+
+#EXTINF:-1 group-title="台湾",爱尔达综合
 http://cloud-play.hhalloy.com/live/c614a26c0e0fb521c5cdfa10ed7f2089.flv
-#EXTINF:-1 ,爱尔达影视
+#EXTINF:-1 group-title="台湾",爱尔达影视
 http://cloud-play.hhalloy.com/live/0916fef64c4baab95f7097d001e4c27e.flv
-#EXTINF:-1 ,中天综合台
+#EXTINF:-1 group-title="台湾",中天综合台
 http://cloud-play.hhalloy.com/live/64ce4daa355bd6784904e72fabb7fa3e.flv 
-#EXTINF:-1 ,中天娱乐台
+#EXTINF:-1 group-title="台湾",中天娱乐台
 http://cloud-play.hhalloy.com/live/25ea449d554a16ec584e82d039065e5f.flv
-#EXTINF:-1 ,中天新闻台
+#EXTINF:-1 group-title="台湾",中天新闻台
 http://cloud-play.hhalloy.com/live/e1a397539e76f45bbbf39d1467024aa3.flv 
-#EXTINF:-1 ,东森综合台
+#EXTINF:-1 group-title="台湾",东森综合台
 http://cloud-play.hhalloy.com/live/7485194388c0ca1d43a664701afb2ff2.flv
-#EXTINF:-1 ,东森新闻台
+#EXTINF:-1 group-title="台湾",东森新闻台
 http://cloud-play.hhalloy.com/live/b237f97b0e9e21e88e0bdaae40730332.flv
-#EXTINF:-1 ,东森财经新闻台
+#EXTINF:-1 group-title="台湾",东森财经新闻台
 http://cloud-play.hhalloy.com/live/10e21c98ff74745141a386d91da24c56.flv
-#EXTINF:-1 ,东森电影台
+#EXTINF:-1 group-title="台湾",东森电影台
 http://cloud-play.hhalloy.com/live/d2325cfdfd53364263d307573f78e3ce.flv
-#EXTINF:-1 ,东森洋片台
+#EXTINF:-1 group-title="台湾",东森洋片台
 http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
-#EXTINF:-1 ,东森戏剧台
+#EXTINF:-1 group-title="台湾",东森戏剧台
 http://cloud-play.hhalloy.com/live/17cdea424a288175c834060c58b3bb4e.flv
-#EXTINF:-1 ,东森超视
+#EXTINF:-1 group-title="台湾",东森超视
 http://cloud-play.hhalloy.com/live/47d46d26bba55dd674454ad46c569ffa.flv 
-#EXTINF:-1 ,东森幼幼台
+#EXTINF:-1 group-title="台湾",东森幼幼台
 http://cloud-play.hhalloy.com/live/0c0a03db510687f73c455afcc220386b.flv
-#EXTINF:-1 ,民视新闻
+#EXTINF:-1 group-title="台湾",民视新闻
 http://210.61.56.23/hls/ftvtv/index.m3u8 
-#EXTINF:-1 ,靖天综合台
+#EXTINF:-1 group-title="台湾",靖天综合台
 http://cloud-play.hhalloy.com/live/7a7b662db65f478451144355efa0f02b.flv
-#EXTINF:-1 ,靖天国际台
+#EXTINF:-1 group-title="台湾",靖天国际台
 http://cloud-play.hhalloy.com/live/cbd38069eb1e8b2c04e356c22baac506.flv
-#EXTINF:-1 ,靖天戏剧台
+#EXTINF:-1 group-title="台湾",靖天戏剧台
 http://cloud-play.hhalloy.com/live/4c3b3fa6235fce99e794a16e096c2e1b.flv
-#EXTINF:-1 ,靖天育乐台
+#EXTINF:-1 group-title="台湾",靖天育乐台
 http://cloud-play.hhalloy.com/live/b4b4eb536ffc346864d2dcc03adedd85.flv
-#EXTINF:-1 ,靖天欢乐台
+#EXTINF:-1 group-title="台湾",靖天欢乐台
 http://cloud-play.hhalloy.com/live/4da43dff7cd731ffb9bbe9a85b029536.flv
-#EXTINF:-1 ,靖天日本台
+#EXTINF:-1 group-title="台湾",靖天日本台
 http://cloud-play.hhalloy.com/live/031b3e399e9530310abc135a0b19a8ac.flv
-#EXTINF:-1 ,靖天资讯台
+#EXTINF:-1 group-title="台湾",靖天资讯台
 http://cloud-play.hhalloy.com/live/e81342a5e0ecde1ee634f19b50fab501.flv
-#EXTINF:-1 ,靖天映画
+#EXTINF:-1 group-title="台湾",靖天映画
 http://cloud-play.hhalloy.com/live/4364abb0a9f358049a535f4692cd49b5.flv
-#EXTINF:-1 ,靖天电影台
+#EXTINF:-1 group-title="台湾",靖天电影台
 http://cloud-play.hhalloy.com/live/5634d5c8ee5afeb118df8decf5eb6c56.flv
-#EXTINF:-1 ,靖天卡通台
+#EXTINF:-1 group-title="台湾",靖天卡通台
 http://cloud-play.hhalloy.com/live/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.flv 
-#EXTINF:-1 ,靖洋卡通台
+#EXTINF:-1 group-title="台湾",靖洋卡通台
 http://cloud-play.hhalloy.com/live/8fa63f69fe90ce0597aa6d4b7c262810.flv
-#EXTINF:-1 ,寰宇新闻
+#EXTINF:-1 group-title="台湾",寰宇新闻
 http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.flv
-#EXTINF:-1 ,寰宇新闻2台
+#EXTINF:-1 group-title="台湾",寰宇新闻2台
 http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
-#EXTINF:-1 ,寰宇综合
+#EXTINF:-1 group-title="台湾",寰宇综合
 http://cloud-play.hhalloy.com/live/82b78befe54a601876654e1db3e3741a.flv
-#EXTINF:-1 ,寰宇财经台
+#EXTINF:-1 group-title="台湾",寰宇财经台
 http://cloud-play.hhalloy.com/live/77c9bab3af161386df16ad9d8a3f3541.flv
-#EXTINF:-1 ,三立综合台
+#EXTINF:-1 group-title="台湾",三立综合台
 http://cloud-play.hhalloy.com/live/16eda25701fe842c519d881c68829ead.flv
-#EXTINF:-1 ,三立新闻台
+#EXTINF:-1 group-title="台湾",三立新闻台
 http://59.125.101.122:8080/live/soooli0715.m3u8
-#EXTINF:-1 ,三立戏剧台
+#EXTINF:-1 group-title="台湾",三立戏剧台
 http://cloud-play.hhalloy.com/live/bdc9e5f7487003c20223fd67f25c7ee7.flv
-#EXTINF:-1 ,三立台湾台
+#EXTINF:-1 group-title="台湾",三立台湾台
 http://cloud-play.hhalloy.com/live/e71635b53bb874a085b2a469802bbc81.flv
-#EXTINF:-1 ,三立都会台
+#EXTINF:-1 group-title="台湾",三立都会台
 http://cloud-play.hhalloy.com/live/4abe46a5faf4865e251ac981287a6e20.flv 
-#EXTINF:-1 ,公视
+#EXTINF:-1 group-title="台湾",公视
 http://cloud-play.hhalloy.com/live/0be9e52678b937320897033d90bb268a.flv
-#EXTINF:-1 ,公视2台
+#EXTINF:-1 group-title="台湾",公视2台
 http://cloud-play.hhalloy.com/live/236c80ba515e5bf302f3db6f4d009914.flv
-#EXTINF:-1 ,公视三台
+#EXTINF:-1 group-title="台湾",公视三台
 http://cloud-play.hhalloy.com/live/514590fdb3ba8e3f2c3a15dd13037f31.flv 
-#EXTINF:-1 ,卫视中文台
+#EXTINF:-1 group-title="台湾",卫视中文台
 http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
-#EXTINF:-1 ,卫视电影台
+#EXTINF:-1 group-title="台湾",卫视电影台
 http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv 
-#EXTINF:-1 ,卫视合家欢
+#EXTINF:-1 group-title="台湾",卫视合家欢
 http://cloud-play.hhalloy.com/live/277056149034cc5fb133537bc411c2c9.flv 
-#EXTINF:-1 ,卫视洋片台
+#EXTINF:-1 group-title="台湾",卫视洋片台
 http://cloud-play.hhalloy.com/live/78c4edcada009192a9b1f8976b5692ab.flv
-#EXTINF:-1 ,八大综合台
+#EXTINF:-1 group-title="台湾",八大综合台
 http://cloud-play.hhalloy.com/live/a26d25ad9eaabca42fa6d526199d61e5.flv
-#EXTINF:-1 ,八大第一台
+#EXTINF:-1 group-title="台湾",八大第一台
 http://cloud-play.hhalloy.com/live/5e147a8d04ab43725d40e72fd7169952.flv
-#EXTINF:-1 ,八大娱乐台
+#EXTINF:-1 group-title="台湾",八大娱乐台
 http://cloud-play.hhalloy.com/live/31c5b2c0fa7ac37b2e1447befb076d08.flv
-#EXTINF:-1 ,八大戏剧台
+#EXTINF:-1 group-title="台湾",八大戏剧台
 http://cloud-play.hhalloy.com/live/6d7d7a9c22ba9aa4e411e3f7567763d8.flv  
-#EXTINF:-1 ,TVBS
+#EXTINF:-1 group-title="台湾",TVBS
 http://cloud-play.hhalloy.com/live/f94be038bca84147bbf132d8ddd9bb39.flv
-#EXTINF:-1 ,TVBS精彩台
+#EXTINF:-1 group-title="台湾",TVBS精彩台
 http://cloud-play.hhalloy.com/live/15379cc75ee0fb41ab2fb3a11f3d909f.flv
-#EXTINF:-1 ,TVBS欢乐台
+#EXTINF:-1 group-title="台湾",TVBS欢乐台
 http://cloud-play.hhalloy.com/live/5e81e3b3e2d8b887db0bc2976558c7ea.flv 
-#EXTINF:-1 ,亚洲综合台
+#EXTINF:-1 group-title="台湾",亚洲综合台
 http://cloud-play.hhalloy.com/live/8e08d22adcc7748ceedc31006b55f7de.flv
-#EXTINF:-1 ,亚洲旅游台
+#EXTINF:-1 group-title="台湾",亚洲旅游台
 http://cloud-play.hhalloy.com/live/a7003032346b06ad6a610ce1751be6a4.flv
-#EXTINF:-1 ,亚洲美食频道
+#EXTINF:-1 group-title="台湾",亚洲美食频道
 http://cloud-play.hhalloy.com/live/13e17ff9d96096b87e7902d77452ae76.flv 
-#EXTINF:-1 ,TLC旅游生活频道
+#EXTINF:-1 group-title="台湾",TLC旅游生活频道
 http://cloud-play.hhalloy.com/live/2389cbac5b421dd5b069a232f3d321bc.flv
-#EXTINF:-1 ,中视
+#EXTINF:-1 group-title="台湾",中视
 http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
-#EXTINF:-1 ,中视新闻
+#EXTINF:-1 group-title="台湾",中视新闻
 http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.flv
-#EXTINF:-1 ,中视经典
+#EXTINF:-1 group-title="台湾",中视经典
 http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
 #EXTINF:-1 ,龙华电影台
 http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
@@ -137,13 +138,13 @@ http://cloud-play.hhalloy.com/live/c311c72c22313d2991be335ea4872f46.flv
 http://cloud-play.hhalloy.com/live/464311a99c6465a1f36681b73c62fa83.flv 
 #EXTINF:-1 ,纬来电影台
 http://cloud-play.hhalloy.com/live/4f10b67646969a422a5490deaaabbc69.flv
-#EXTINF:-1 ,台视
+#EXTINF:-1 group-title="台湾",台视
 http://cloud-play.hhalloy.com/live/bec346d29d4c665d04db41d28a4e033f.flv
-#EXTINF:-1 ,台视综合台
+#EXTINF:-1 group-title="台湾",台视综合台
 http://cloud-play.hhalloy.com/live/a8905b7e88b656b83c0f5d8bf5771430.flv
-#EXTINF:-1 ,台视财经台
+#EXTINF:-1 group-title="台湾",台视财经台
 http://cloud-play.hhalloy.com/live/c5d061725e49943973c43a404b913f17.flv
-#EXTINF:-1 ,华视
+#EXTINF:-1 group-title="台湾",华视
 http://cloud-play.hhalloy.com/live/0bdf94d7f68fe3ece32048144cbf9a23.flv 
 #EXTINF:-1 ,年代MUCH
 http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.flv
@@ -209,7 +210,7 @@ http://cloud-play.hhalloy.com/live/2d2f46a778c93f01b614213456fc97fc.flv
 http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
 #EXTINF:-1 ,华艺影剧台
 http://cloud-play.hhalloy.com/live/49d33b7521ceef2115572e8906e9f906.flv
-#EXTINF:-1 ,新加坡亚洲新闻台
+#EXTINF:-1 group-title="英语-新闻",新加坡亚洲新闻台
 http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
 #EXTINF:-1 ,非凡新闻台
 http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.flv
@@ -311,7 +312,7 @@ http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1 ,BBC earth
 http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
-#EXTINF:-1 ,BBC World News
+#EXTINF:-1 group-title="英语-新闻",BBC World News
 http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
 #EXTINF:-1 ,BBC Lifestyle
 http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv 
@@ -389,7 +390,6 @@ http://live.streamingfast.net/osmflivech12.m3u8
 http://61.58.60.230:9319/live/10.m3u8
 #EXTINF:-1 ,大愛二台
 http://61.58.60.230:9319/live/191.m3u8
-
 #EXTINF:-1 ,凤凰中文
 http://59.125.101.122:8080/live/phoenix7188.m3u8
 #EXTINF:-1 ,香港电台
@@ -428,23 +428,21 @@ http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1 ,阳光卫视
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
-
-
-#EXTINF:-1 ,CNN NEWS
+#EXTINF:-1 group-title="英语-新闻",CNN NEWS
 http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
-#EXTINF:-1 ,SKY NEWS
+#EXTINF:-1 group-title="英语-新闻",SKY NEWS
 http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
-#EXTINF:-1 ,天空新闻
+#EXTINF:-1 group-title="英语-新闻",天空新闻
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 ,天空新闻
+#EXTINF:-1 group-title="英语-新闻",天空新闻
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 ,LUXE.TV
 http://cloud-play.hhalloy.com/live/5eb27870debdb04d89a6246b163c2da5.flv 
-#EXTINF:-1 ,Bloombreg TV
+#EXTINF:-1 group-title="英语-新闻",Bloomberg TV
 http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.flv
 #EXTINF:-1 ,NHK
 http://cloud-play.hhalloy.com/live/6c2713799277ea6ea2d3bfd0d4c31f88.flv
-#EXTINF:-1 ,NHK WORLD
+#EXTINF:-1 group-title="英语-新闻",NHK WORLD
 http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flv
 #EXTINF:-1 ,FOX News
 http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
@@ -604,40 +602,10 @@ http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stre
 http://ios-stream.qvc.de/qvc.m3u8
 #EXTINF:-1 ,意大利SkyNews
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 ,意大利Canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 ,意大利La 7
-http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
-#EXTINF:-1 ,意大利m20 TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 ,意大利Radio Azzurra
-http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
-#EXTINF:-1 ,意大利Radio Capital TiVu
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 ,意大利Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 #EXTINF:-1 ,意大利Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1 ,意大利Radio Monte Carlo
-http://wow01.105.net:1935/live/rmc1/livestream.m3u8
-#EXTINF:-1 ,意大利Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 ,意大利Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 ,意大利Sky TG24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 ,意大利Sudtirol TV
-http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
-#EXTINF:-1 ,意大利SuperTV
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 ,意大利TSN
-http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
-#EXTINF:-1 ,意大利TVRS
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1 ,意大利Video Brescia
-http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-#EXTINF:-1 ,意大利Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 #EXTINF:-1 ,巴西AllSports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 ,巴西Rede Atividade
@@ -680,68 +648,6 @@ http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 #EXTINF:-1 ,俄罗斯CGTN
 http://live.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 ,俄罗斯First Music (Opt-3)
-http://rtmp.one.by:1200
-#EXTINF:-1 ,俄罗斯HD Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ,俄罗斯KinoMenu HD
-http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Krasnaja Linija
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Mir
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Mir 24 (Opt-1)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 ,俄罗斯MostVideo TV 1
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 ,俄罗斯Muz Sojuz
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:-1 ,俄罗斯MTVmix Ufa
-http://81.30.182.82:18092/hls/live.m3u8
-#EXTINF:-1 ,俄罗斯Nastoyashcheye Vremya
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 ,俄罗斯RBC (Opt-1)
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 ,俄罗斯RBC (Opt-2)
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1 ,俄罗斯RBC (Opt-3)
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 ,俄罗斯Shanson TV (Opt-1)
-http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Shanson TV (Opt-2)
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 ,俄罗斯Tivikom Ulan-Udje
-http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-1 ,俄罗斯Tjumenskoe Vremja
-http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Tochka TV (Opt-1)
-http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
-#EXTINF:-1 ,俄罗斯TopShop
-http://tv-topshop.netrack.ru/hls/topshop.m3u8
-#EXTINF:-1 ,俄罗斯TRO Soyuz
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 ,俄罗斯Ugra TV
-http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:-1 ,波兰Stars TV
-http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
-#EXTINF:-1 ,波兰TV Kujawy (Opt-1)
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 ,波兰TV Torun
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 ,波兰TV Trwam
-http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
-#EXTINF:-1 ,波兰TVP3 Bialystok
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
-#EXTINF:-1 ,波兰TVP3 Lodz
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
-#EXTINF:-1 ,波兰TVP3 Lublin
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
-#EXTINF:-1 ,波兰TVP3 Poznan
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
-#EXTINF:-1 ,波兰TVP3 Warszawa
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
-#EXTINF:-1 ,波兰TVP3 Wroclaw
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
 #EXTINF:-1 ,澳大利亚4BC Brisbane
 http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
 #EXTINF:-1 ,新西兰Three
@@ -780,102 +686,8 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOK
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
 #EXTINF:-1 ,拉丁美洲CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 ,拉丁美洲La Mega Mundial
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 ,拉丁美洲TV Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 ,墨西哥Capital 21 Mexico City
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-#EXTINF:-1 ,墨西哥Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 ,墨西哥Teleformula (New)
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 ,墨西哥Uno TV (VOD)
-http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
-#EXTINF:-1 ,阿根廷Canal 3 Pinamar
-http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 ,阿根廷Canal 4 Posadas
-http://184.154.28.210:1935/canal4/canal4/live.m3u8
-#EXTINF:-1 ,阿根廷Canal Local Olavarria
-http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
-#EXTINF:-1 ,阿根廷Canal Provincial San Miguel
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 ,阿根廷Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 ,阿根廷Radio TV Neuquen
-http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
-#EXTINF:-1 ,秘鲁Antares TV
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 ,秘鲁Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 ,秘鲁TV Peru
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
-#EXTINF:-1 ,乌拉圭 Canal M
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
-#EXTINF:-1 ,哥斯达黎加 Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 ,哥斯达黎加 Telered
-http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
-#EXTINF:-1 ,哥斯达黎加 Telesur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1 ,罗马尼亚Cromtel TV
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
-#EXTINF:-1 ,罗马尼亚Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-#EXTINF:-1 ,罗马尼亚Informatia TV
-http://s1.streamnet.ro:8014/stream.flv
-#EXTINF:-1 ,罗马尼亚STV
-http://s2.streamnet.ro:8035/stream.flv
-#EXTINF:-1 ,罗马尼亚TV Kit
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-#EXTINF:-1 ,摩尔多瓦Acasa TV
-http://hls.protv.md/acasatv/acasatv.m3u8
-#EXTINF:-1 ,摩尔多瓦NTV
-http://93.115.137.166/hls/ntvm.m3u8
-#EXTINF:-1 ,摩尔多瓦Pro TV
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:-1 ,摩尔多瓦Publika TV
-http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:-1 ,摩尔多瓦Tele M
-http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-#EXTINF:-1 ,阿尔巴尼亚Report-TV
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-#EXTINF:-1 ,塞尔维亚 Duga TV
-http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
-#EXTINF:-1 ,塞尔维亚 TV Partizan
-http://212.200.102.3:5000/udp/239.99.99.99:23999
-#EXTINF:-1 ,塞尔维亚 TVKopernikus2
-http://212.200.102.3:5000/rtp/239.0.0.2:5000
-#EXTINF:-1 ,塞尔维亚 TVKopernikus3
-http://212.200.102.3:5000/rtp/239.0.0.3:5000
-#EXTINF:-1 ,波斯尼亚 777 TehnikaTV
-http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
-#EXTINF:-1 ,波斯尼亚 Al Jazeera Balkans
-http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
-#EXTINF:-1 ,波斯尼亚 BN TV
-http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
-#EXTINF:-1 ,波斯尼亚 Televizija 5
-http://37.59.21.217:8809/live/tv5web.m3u8
-#EXTINF:-1 ,马其顿 Sky Folk TV
-http://skyfolk.mk/live.m3u8
-#EXTINF:-1 ,乌克兰100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 ,乌克兰Lale
-http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 ,乌克兰M2
-http://live.m2.tv/hls/stream.m3u8
-#EXTINF:-1 ,捷克Retro (Opt-1)
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 ,斯洛伐克TV 8
-http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-#EXTINF:-1 ,斯洛伐克TVNZ
-http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
-#EXTINF:-1 ,拉脱维亚Chau TV
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-#EXTINF:-1 ,拉脱维亚RETV
-http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
-#EXTINF:-1 ,拉脱维亚TV Net
-http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
 #EXTINF:-1 ,希腊Fox TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 ,希腊Ionian Channel
@@ -926,12 +738,6 @@ http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1 ,伊朗BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
-#EXTINF:-1 ,伊朗PBC Tapesh TV
-http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 ,伊朗Radio Javan
-http://198.98.181.244/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 ,伊朗Rangarang TV
-http://iptv.rangarang.us/live/playlist.m3u8
 #EXTINF:-1 ,阿拉伯半岛电视新闻网Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 ,阿拉伯半岛电视新闻网(Opt-2)
@@ -942,32 +748,8 @@ http://live.cgtn.com/1000a/prog_index.m3u8
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 ,阿拉伯半岛电视新闻网TRT
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 ,黎巴嫩Al Manar
-http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1 ,伊拉克 Al Sharqiya
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 ,伊拉克 Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 ,沙特阿拉伯Masdar TV
-http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-#EXTINF:-1 ,阿拉伯联合酋长国Abu Dhabi Sports 2 HD (Opt-2)
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1 ,阿拉伯联合酋长国Abu Dhabi Sports 2 HD (Opt-3)
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 ,阿拉伯联合酋长国Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 #EXTINF:-1 ,阿拉伯联合酋长国Dubai One
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1 ,卡塔尔 Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 ,卡塔尔 Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 ,摩洛哥Al Aoula International
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 ,摩洛哥Arryadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 ,摩洛哥Al Maghribia
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 ,加纳TV Africa (Ghana)
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 #EXTINF:-1 ,STLHD
