@@ -4,6 +4,8 @@ http://cloud-play.hhalloy.com/live/6c2713799277ea6ea2d3bfd0d4c31f88.flv
 
 #EXTINF:-1 group-title="英语-新闻",Bloomberg TV
 http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.flv
+#EXTINF:-1 group-title="英语-新闻",美国Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 group-title="英语-新闻",CNN NEWS
 http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
 #EXTINF:-1 group-title="英语-新闻",FOX News
