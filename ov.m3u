@@ -1,35 +1,4 @@
 #EXTM3U 
-
-
-#EXTINF:-1 group-title="日语",NHK
-http://cloud-play.hhalloy.com/live/6c2713799277ea6ea2d3bfd0d4c31f88.flv
-#EXTINF:-1 tvg-id="" tvg-name="NHKChinese" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="日语",NHK华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="日语",NHKWORLD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-
-
-#EXTINF:-1 group-title="英语-新闻",美国Bloomberg TV Europe
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 group-title="英语-新闻",天空新闻
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 group-title="英语-新闻",天空新闻
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-
-#EXTINF:-1 group-title="英语-娱乐",HBO HD
-http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
-#EXTINF:-1 group-title="英语-娱乐",HBO Hits
-http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
-#EXTINF:-1 group-title="英语-娱乐",HBO Signature
-http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
-#EXTINF:-1 group-title="英语-娱乐",HBO Family
-http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv 
-#EXTINF:-1 group-title="英语-娱乐",BBC Lifestyle
-http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv 
-
-#EXTINF:-1 group-title="英语-自然",BBC earth
-http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCvz0nQ.png" group-title="台湾",三立新闻
 http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCvz0nQ.png" group-title="台湾",三立新闻
@@ -83,6 +52,34 @@ http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://v.mastvnet.com/t/1/2/img/12qwewqeerwq2.png" group-title="港澳",澳亞衛視
 http://stream.mastvnet.com/MSTV/playlist.m3u8
+
+#EXTINF:-1 group-title="日语",NHK
+http://cloud-play.hhalloy.com/live/6c2713799277ea6ea2d3bfd0d4c31f88.flv
+#EXTINF:-1 tvg-id="" tvg-name="NHKChinese" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="日语",NHK华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="日语",NHKWORLD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+
+#EXTINF:-1 group-title="英语-新闻",美国Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 group-title="英语-新闻",天空新闻
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 group-title="英语-新闻",天空新闻
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
+#EXTINF:-1 group-title="英语-娱乐",HBO HD
+http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
+#EXTINF:-1 group-title="英语-娱乐",HBO Hits
+http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
+#EXTINF:-1 group-title="英语-娱乐",HBO Signature
+http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+#EXTINF:-1 group-title="英语-娱乐",HBO Family
+http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv 
+#EXTINF:-1 group-title="英语-娱乐",BBC Lifestyle
+http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv 
+
+#EXTINF:-1 group-title="英语-自然",BBC earth
+http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
 
 #EXTINF:-1 ,日-衛星劇場
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
