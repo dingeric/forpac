@@ -8,30 +8,13 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="日语",NHKWORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 
-#EXTINF:-1 group-title="英语-新闻",Bloomberg TV
-http://cloud-play.hhalloy.com/live/ab2450af4c80b52d0810eceaf055abee.flv
+
 #EXTINF:-1 group-title="英语-新闻",美国Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 group-title="英语-新闻",CNN NEWS
-http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
-#EXTINF:-1 group-title="英语-新闻",FOX News
-http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
-#EXTINF:-1 group-title="英语-新闻",BBC World News
-http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
-#EXTINF:-1 group-title="英语-新闻",SKY NEWS
-http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
 #EXTINF:-1 group-title="英语-新闻",天空新闻
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 group-title="英语-新闻",天空新闻
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 group-title="英语-新闻",DWTV
-http://cloud-play.hhalloy.com/live/a4aa25e01a432729323f4d0778605887.flv
-#EXTINF:-1 group-title="英语-新闻",Euronews
-http://cloud-play.hhalloy.com/live/7c52797bf1ca2da52c212bdead1d607c.flv
-#EXTINF:-1 group-title="英语-新闻",NHK WORLD
-http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flv
-#EXTINF:-1 group-title="英语-新闻",新加坡亚洲新闻台
-http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
 
 #EXTINF:-1 group-title="英语-娱乐",HBO HD
 http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
@@ -43,10 +26,6 @@ http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
 http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv 
 #EXTINF:-1 group-title="英语-娱乐",BBC Lifestyle
 http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv 
-#EXTINF:-1 ,HBO
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1 ,HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1 group-title="英语-自然",BBC earth
 http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
@@ -62,50 +41,6 @@ http://59.125.101.122:8080/live/soooli0715.m3u8
 #EXTINF:-1 ,历史频道HD
 http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
 
-
-
-
-#EXTINF:-1 ,GOODTV综合台
-http://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 ,GOODTV综合台
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
-#EXTINF:-1 ,GOOD TV真理台
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 ,GOOD TV真理台
-http://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 ,GOOD TV好消息
-http://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 ,GOOD TV烤箱读书会
-http://live.streamingfast.net/osmflivech10.m3u8
-#EXTINF:-1 ,GOOD TV烤箱读书会
-http://live.streamingfast.net/osmflivech44.m3u8
-#EXTINF:-1 ,GOOD TV健康新煮流
-http://live.streamingfast.net/osmflivech13.m3u8
-#EXTINF:-1 ,GOOD TV真情部落格
-http://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 ,GOOD TV真情部落格
-http://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 ,GOOD TV共享观点
-http://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 ,GOOD TV诗歌音乐
-http://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1 ,GOOD TV祷告大军
-http://live.streamingfast.net/osmflivech7.m3u8
-#EXTINF:-1 ,GOOD TV幸福学堂
-http://live.streamingfast.net/osmflivech8.m3u8
-#EXTINF:-1 ,GOOD TV爱+好医生
-http://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 ,GOOD TV卡通
-http://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 ,GOOD TV維他命施 
-http://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 ,大愛一台
-http://61.58.60.230:9319/live/10.m3u8
-#EXTINF:-1 ,大愛二台
-http://61.58.60.230:9319/live/191.m3u8
-
-#EXTINF:-1 ,全美電視
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 
 #EXTINF:-1 tvg-id="Fenghuang" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳",凤凰中文HD
 http://liveali.ifeng.com/live/FHZW.m3u8
@@ -145,32 +80,14 @@ http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
 
 
-#EXTINF:-1 ,GOOD共享观点
-http://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 ,GOOD卡通
-http://live.streamingfast.net/osmflivech40.m3u8
 #EXTINF:-1 ,日-衛星劇場
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
 #EXTINF:-1 ,日本映画HD
 http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8 
 #EXTINF:-1 ,花花公子韩国
 http://122.38.74.172:9981/stream/channelid/966306501.m3u8
-#EXTINF:-1 ,韩国TV Chosun
-http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1 ,韩国CBS
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1 ,韩国KBS1
-http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-#EXTINF:-1 ,EBS1
-http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,韩国EBSeHD
-http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 ,韩国Arirang (Opt-1)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,韩国KTV
-http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:-1 ,韩国Chosun
-http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1 ,泰国DDTV
 http://203.156.63.20:1935/live/ddtv/playlist.m3u8
 #EXTINF:-1 ,越南ANTVHD
@@ -231,100 +148,14 @@ http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
 #EXTINF:-1 ,加拿大CBC News (VOD)
 http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF:-1 ,加拿大CTV News Live 1
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
-#EXTINF:-1 ,加拿大CTV News Live 3
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-#EXTINF:-1 ,加拿大CTV News Live 4
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-#EXTINF:-1 ,加拿大The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 ,加拿大NTV Newfoundland
-http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 ,英国MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 ,英国Arise News
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 ,英国Jewellery Maker
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-#EXTINF:-1 ,法国Bblack! Africa
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:-1 ,法国Bblack! Caribbean
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
 #EXTINF:-1 ,法国CGTN
 http://live.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 ,法国Francophonie 24
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 ,法国Gong
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 ,德国Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 ,德国Isar TV
-http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:-1 ,德国MDF.1
-http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-#EXTINF:-1 ,德国Munchen TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
-#EXTINF:-1 ,德国Noa 4 Norderstedt
-http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 ,德国Noa 4 Hamburg
-http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 ,德国Oberpfalz TV
-http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
-#EXTINF:-1 ,德国Offener Kanal Magdeburg
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 ,德国pop10
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 ,德国RFO
-http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
-#EXTINF:-1 ,德国TVA Ostbayern
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
-#EXTINF:-1 ,德国TV Oberfranken
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 ,德国QVC
-http://ios-stream.qvc.de/qvc.m3u8
-#EXTINF:-1 ,意大利SkyNews
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 ,意大利Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 ,意大利Sky TG24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 ,巴西AllSports
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 ,巴西Rede Atividade
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-#EXTINF:-1 ,巴西Rede TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
-#EXTINF:-1 ,西班牙皇马足球台HD
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:-1 ,西班牙3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1 ,西班牙13 TV
-http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1 ,西班牙Calle 13
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
-#EXTINF:-1 ,西班牙Canal Extremadura
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1 ,西班牙Canal Parlamento (Updated)
-http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
-#EXTINF:-1 ,西班牙Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 ,西班牙Levante TV
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
-#EXTINF:-1 ,西班牙Navarra TV (Opt-2)
-http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
-#EXTINF:-1 ,西班牙RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 ,西班牙TeleSafor
-http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1 ,西班牙TeleValencia
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1 ,西班牙TV3 (Opt-1)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1 ,西班牙TV Galicia Europa
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,西班牙TV Mediterraneo
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
 #EXTINF:-1 ,俄罗斯8 Kanal
 http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 #EXTINF:-1 ,俄罗斯Astrakhan 24 (Opt-2)
@@ -361,83 +192,13 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:-1 ,比利时RTL-TVI
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:-1 ,喀麦隆 Vision 4
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 #EXTINF:-1 ,瑞士Tele M1
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
 #EXTINF:-1 ,瑞士TeleBarn
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
-#EXTINF:-1 ,拉丁美洲CGTN
-http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 ,墨西哥Capital 21 Mexico City
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-#EXTINF:-1 ,希腊Fox TV
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 ,希腊Ionian Channel
-http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1 ,塞浦路斯Sigma TV (Greek)
-http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1 ,土耳其AKSU TV
-http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
-#EXTINF:-1 ,土耳其Cay TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 ,土耳其CNN Turk
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1 ,土耳其Dream TV
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 ,土耳其Dreamturk TV
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1 ,土耳其Kanal D
-http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1 ,土耳其Meclis TV
-http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1 ,土耳其TRT 1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1 ,土耳其TRT Avaz
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1 ,土耳其TRT Cocuk
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 ,土耳其TRT Haber
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1 ,土耳其TRT Muzik
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1 ,土耳其TRT Turk
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-1 ,库尔德斯坦TRT Kurdi
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:-1 ,以色列Knesset Channel
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 ,印度ABP Asmita
-http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
-#EXTINF:-1 ,印度DD News
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 ,印度JK 24x7 News
-http://edge-ind.inapcdn.in:1935/device2/camera2.stream/playlist.m3u8
-#EXTINF:-1 ,印度PBN Music (USA)
-http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
-#EXTINF:-1 ,印度Vasanth TV Tamil
-http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
-#EXTINF:-1 ,巴基斯坦Lahore News
-http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-#EXTINF:-1 ,伊朗BBC
-http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
-#EXTINF:-1 ,阿拉伯半岛电视新闻网Al Hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 ,阿拉伯半岛电视新闻网(Opt-2)
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1 ,阿拉伯半岛电视新闻网CGTN
-http://live.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 ,阿拉伯半岛电视新闻网Deutsche Welle
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 ,阿拉伯半岛电视新闻网TRT
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 ,阿拉伯联合酋长国Dubai One
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1 ,加纳TV Africa (Ghana)
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1 ,STLHD
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1 ,高清时装台WFC
-http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 #EXTINF:-1 ,TRAVEL HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
