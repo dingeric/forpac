@@ -30,13 +30,16 @@ http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv
 #EXTINF:-1 group-title="英语-自然",BBC earth
 http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
 
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e1/SETN_logo.png/220px-SETN_logo.png" group-title="台湾",三立新聞
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UCvz0nQ.png" group-title="台湾",三立新闻
+http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UCvz0nQ.png" group-title="台湾",三立新闻
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 group-title="台湾",民视新闻
-http://210.61.56.23/hls/ftvtv/index.m3u8 
-#EXTINF:-1 group-title="台湾",三立新闻台
-http://59.125.101.122:8080/live/soooli0715.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UCvz0nQ.png" group-title="台湾",三立新闻
+http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t1l4gwM.png" group-title="台湾",SJTV
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OK35yVH.png" group-title="台湾",TVBS News
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 
 #EXTINF:-1 ,历史频道HD
 http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
@@ -44,7 +47,7 @@ http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
 
 #EXTINF:-1 tvg-id="Fenghuang" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳",凤凰中文HD
 http://liveali.ifeng.com/live/FHZW.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳",凤凰资讯
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳",凤凰资讯
 http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="港澳",凤凰资讯HD
 http://117.169.120.138:8080/live/fhzixun/.m3u8
@@ -54,10 +57,10 @@ http://223.82.250.72/live/fhzixun/1.m3u8
 http://223.82.250.72/live/fhhongkong/1.m3u8
 #EXTINF:-1 group-title="港澳",凤凰中文
 http://59.125.101.122:8080/live/phoenix7188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://v.mastvnet.com/t/1/2/img/12qwewqeerwq2.png" group-title="港澳",澳亞衛視
-http://stream.mastvnet.com/MSTV/playlist.m3u8
-#EXTINF:-1 group-title="港澳",香港电台
+#EXTINF:-1 group-title="港澳",RTHK香港电台
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="港澳",RTHK香港电台
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1 group-title="港澳",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="港澳",星空卫视
@@ -78,7 +81,8 @@ http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1 group-title="港澳",阳光卫视
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://v.mastvnet.com/t/1/2/img/12qwewqeerwq2.png" group-title="港澳",澳亞衛視
+http://stream.mastvnet.com/MSTV/playlist.m3u8
 
 #EXTINF:-1 ,日-衛星劇場
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
