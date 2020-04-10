@@ -11,11 +11,14 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 ######日台######
 #EXTINF:-1 tvg-id="" tvg-name="NHKChinese" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="日台",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t1l4gwM.png" group-title="日台",SJTV
-http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OK35yVH.png" group-title="日台",TVBS News
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHKChinese" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="日台",NHK华语视界
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1 group-title="日台",华视
+http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 group-title="日台",中视
+http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 group-title="日台",中天综合
+http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 
 ######港澳######
 
@@ -26,6 +29,10 @@ http://223.82.250.72/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="港澳",凤凰香港高清
 http://223.82.250.72/live/fhhongkong/1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="港澳",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="港澳",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="港澳",星空卫视
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
